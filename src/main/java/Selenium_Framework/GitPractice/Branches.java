@@ -8,4 +8,9 @@ public class Branches {
 	public void  display() {
 		System.out.println("hello");
 	}
+	@Test
+	public void  demo() {
+		System.out.println("hello");
+	}
+
 }
