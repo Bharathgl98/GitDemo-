@@ -20,5 +20,10 @@ public class GitDemo {
 	{
 		System.out.println("deleteTwitter");
 	}
+	@Test
+	public void view ()
+	{
+		System.out.println("view ");
+	}
 
 }
